@@ -1,1 +1,37 @@
 <?xml version = "1.0" encoding = "UTF-8"?>
+<css>
+    <selectors>
+        <simple>
+            <element>
+                <symbol>element</symbol>
+                <example>p</example>
+                <description>Selects all {p} elements </description>
+            </element>
+            <id>
+                <symbol>#id</symbol>
+                <example>#firstname</example>
+                <description>Selects the element with id="firstname" </description> 
+            </id>
+            <class>
+                <symbol>.class</symbol>
+                <example>.intro</example>
+                <description>Selects all elements with class="intro" </description> 
+            </class>
+            <element_class>
+                <symbol>element.class</symbol>
+                <example>p.intro</example>
+                <description>Selects only {p} elements with class="intro" </description> 
+            </element_class>
+            <universal>
+                <symbol>*</symbol>
+                <example>*</example>
+                <description>Selects all elements </description> 
+            </universal>
+            <multiple_element>
+                <symbol>element,element</symbol>
+                <example>div,p</example>
+                <description>Selects all {div} elements and all {p} elements </description> 
+            </multiple_element>
+        </simple>
+    </selectors>
+</css>
