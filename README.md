@@ -10,3 +10,6 @@ Trying to create a Tribute <Tribute.html> Page using HTML, if possible will use 
 Day 2: 30032021
 Continuing work on Tribute <Tribute.html>, will use css and try to position the image
 Added Documentation for HTML and CSS to respective folder <Documentation_HTML.xml> & <Documentation_CSS.xml>
+
+Day 3: 31032021
+Positioning completed, will explore more on HTML and CSS
